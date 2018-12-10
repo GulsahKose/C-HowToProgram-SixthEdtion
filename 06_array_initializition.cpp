@@ -35,6 +35,7 @@ int main()
     }
     //*****************************************************************
 
+    // int arr3[3] = {1, 2, 3, 4}; // error: too many initializers for ‘int [3]’
 
     return 0;
 }
